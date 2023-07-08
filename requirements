@@ -2,6 +2,6 @@ pandas
 numpy
 matplotlib
 seaborn
-n ML -c anaconda scikit-learn
+scikit-learn
 streamlit
 pickle-mixin
